@@ -8,10 +8,10 @@ This wasn't just about writing code—it was about applying blockchain technolog
 
 2. Getting Comfortable with Solidity
 Solidity can look intimidating at first, but by working on this project, I got used to:
-Writing functions that send and receive Ether
-Using mappings for quick data access
-Structuring campaign details with structs
-Managing access with visibility modifiers like public and private
+Writing functions that send and receive Ether.
+Using mappings for quick data access.
+Structuring campaign details with structs.
+Managing access with visibility modifiers like public and private.
 
 
 4. Writing Safer Smart Contracts
